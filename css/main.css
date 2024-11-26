@@ -26,6 +26,7 @@ html {
     height: 900px;
     padding-left: 40px;
     padding-right: 40px;
+    padding-left: 40px;
 
     
 								
@@ -34,7 +35,7 @@ html {
 .menu{
     display: block;
     text-align: center;
-    padding: 20px 100px;
+    padding: 20px 0px;
        
     
        
@@ -90,7 +91,7 @@ html {
 
 .mainText{
     clear: both;
-    margin: 30px;
+ 
     
   
 }
@@ -112,6 +113,7 @@ html {
 .bannerText{
     font-size: 32px;
     margin: 0px;
+    padding: 0px;
 }
 
 #mainTrends{
@@ -162,6 +164,46 @@ a{
     padding: 0px;
     margin-top: 0px;
     
+}
+
+
+.mainUniversal{
+    clear: both;
+    
+    
+}
+
+.mainUniversalFirst{
+    background-color: #f1f1f1;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 200px;
+    float: left;
+  
+}
+    
+.mainUniversalWord{
+    float: left;
+    margin-left: 20px;
+    width: 200px;
+
+    
+}
+
+.mainUniversalWord p,h3{
+   margin: 0px;
+   padding: 0px;
+
+    
+}
+
+
+#clip{float: left;}
+
+
+
+#coko{
+    font-size: 10px;
 }
 
 
